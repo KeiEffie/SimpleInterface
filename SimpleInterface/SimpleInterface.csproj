@@ -43,6 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CourseProductModel.cs" />
+    <Compile Include="CustomerModel.cs" />
+    <Compile Include="DigitalProductModel.cs" />
+    <Compile Include="ICustomerModel.cs" />
+    <Compile Include="IDigitalProductModel.cs" />
+    <Compile Include="IProductModel.cs" />
+    <Compile Include="PhysicalProductModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
